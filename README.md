@@ -1,94 +1,65 @@
-<div align="center">
+# ERSAN YUKSEKKAYA
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ERSAN%20Y%C3%9CKSEKKAYA&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=220&section=header&text=ERSAN%20YUKSEKKAYA&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
-### 🚀 Space Engineering • AI Systems • Digital Products
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1200&color=00C6FF&center=true&vCenter=true&width=800&lines=SPACE+ENGINEERING+%7C+AI+SYSTEMS;BUILDING+FUTURE+TECHNOLOGIES;FROM+CONCEPT+TO+REAL+SYSTEMS)
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Building+at+the+intersection+of+Space%2C+AI+and+Design;Turning+ideas+into+real+systems;Engineering+%2B+Story+%2B+Visual+Identity" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000428?style=for-the-badge&logo=linkedin&logoColor=00c6ff)](https://www.linkedin.com/in/ersan-yuksekkaya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000428?style=for-the-badge&logo=vercel&logoColor=00c6ff)](https://ersanyuksekkaya.github.io/Portfolio/main.html)
+[![Email](https://img.shields.io/badge/Email-000428?style=for-the-badge&logo=gmail&logoColor=00c6ff)](mailto:yuksekkayaersan@gmail.com)
 
-<br/>
-
-<a href="https://www.linkedin.com/in/ersan-yuksekkaya">
-  <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://ersanyuksekkaya.github.io/Portfolio/main.html">
-  <img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="mailto:yuksekkayaersan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=kingos352&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
+![Visitors](https://komarev.com/ghpvc/?username=kingos352&label=VISITORS&color=00c6ff&style=for-the-badge)
 
 ---
 
-## 🧭 About Me
+## ABOUT
 
-I am a **Space Engineering student** focused on building projects across  
-**space technologies, artificial intelligence, web systems, and design**.
+Space Engineering student focused on building systems at the intersection of:
 
-I don’t just write code — I design **systems, experiences, and ideas**  
-that can evolve into real-world products.
+**Space Technologies • Artificial Intelligence • Complex Systems**
 
----
-
-## 🚀 Focus Areas
-
-- 🚀 Space technologies & propulsion concepts  
-- 🤖 AI systems & automation  
-- 🌐 Modern web interfaces  
-- 🛰️ Hackathons & innovation projects  
-- 🎨 Visual systems & branding  
+I work on ideas that can evolve into **real, scalable and impactful technologies** — not just concepts.
 
 ---
 
-## 🛠️ Tech Stack
+## FOCUS
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,figma" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kingos352&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingos352&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+- Space systems & propulsion-oriented thinking  
+- AI systems and intelligent automation  
+- System design & problem solving  
+- Innovation-driven project development  
 
 ---
 
-## 🚀 Current Projects
+## SYSTEM STACK
 
-- 🚧 Portfolio Website  
-- 🚧 Enigma (Startup Concept)  
-- 🚧 AI Assistant Systems  
-- 🚧 Hackathon Projects  
+![Skills](https://skillicons.dev/icons?i=python,js,react,git,github,vscode)
 
 ---
 
-## 🧠 Philosophy
+## GITHUB SIGNAL
 
-> A strong project = Engineering + Story + Visual Identity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingos352&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000428&title_color=00c6ff&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingos352&layout=compact&theme=tokyonight&hide_border=true&bg_color=000428&title_color=00c6ff&text_color=ffffff)
 
 ---
 
-<div align="center">
+## CURRENT WORK
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
+- Portfolio System  
+- Enigma (Technology Concept)  
+- AI-based systems  
+- Hackathon-level rapid prototypes  
 
-### ✨ The future is not something we wait for. We build it. ✨
+---
 
-</div>
+## MINDSET
+
+> Build systems.  
+> Think long-term.  
+> Focus on impact.
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=120&section=footer)
