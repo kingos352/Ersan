@@ -99,11 +99,11 @@ A deep-tech venture direction focused on aerospace R&D, electric propulsion, str
 
 ## GITHUB TELEMETRY
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingos352&show_icons=true&theme=tokyonight&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kingos352&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingos352&layout=compact&theme=tokyonight&hide_border=true)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kingos352&theme=tokyonight)
 
-## OPERATING PRINCIPLE
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kingos352&theme=tokyonight)
 
 Build systems with technical depth, clear documentation, strong visual identity, and real-world direction.
 
